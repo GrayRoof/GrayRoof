@@ -1,6 +1,9 @@
-### Hi there 👋
-
-[Task Management System API](https://github.com/GrayRoof/task-management-system-API)
+### Приветствую! 👋
+## В моем репозитории вы можете найти несколько, реализованных мной, проектов:
+1. [Task Management System API](https://github.com/GrayRoof/task-management-system-API) - API сервиса управления задачами
+2. [Share It Service API](https://github.com/GrayRoof/java-shareit) - API сервиса бесплатной аренды инструментов или материалов участников
+3. [Explore With Me Service API](https://github.com/GrayRoof/java-explore-with-me) - API сервиса для организации совместного досуга
+4. [Filmorate Service API](https://github.com/GrayRoof/java-filmorate) - API сервиса для фильмотеки с возможностью формирования рейтинга
 <!--
 **GrayRoof/GrayRoof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
